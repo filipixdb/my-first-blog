@@ -25,7 +25,7 @@ SECRET_KEY = '))pml*-=y(^+uy7nzr%71=9ot)j4)k@r5ihfridf8jv*&k)jm3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['filipixdb.pythonanywhere.com']
 
 
 # Application definition
